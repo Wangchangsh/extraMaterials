@@ -1,1 +1,1 @@
-It's just some demo data.
+just some demo data.
